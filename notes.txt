@@ -1,0 +1,6 @@
+db:
+
+id, cid, name, level, class, alignment, race, sex, height, weight, age, hair, eyes, apperance, perception, hitpoints, religion, birthplace.
+
+str, hit, dam, wgt_all, max_pr, doors, bb_lg , dex, reaction_adj, missile_att, defense_adf, con, hp_adj, sys_chock, resurr, poison, regen
+int, lng, spell_lvl, learn, spells_lvl, imm, wis, magic, bonus_spells, fail, immunity, max_henchmen, loyality_base, reaction_adj
